@@ -1,3 +1,4 @@
 control file
 new line inserted to control
 another new line
+Hello new branch!
