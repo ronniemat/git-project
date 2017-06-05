@@ -1,4 +1,8 @@
 control file
 new line inserted to control
 another new line
+<<<<<<< HEAD
 Hello new branch!
+=======
+branch master
+>>>>>>> master
