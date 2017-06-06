@@ -6,3 +6,4 @@ Hello new branch!
 =======
 branch master
 >>>>>>> master
+new line 6-6-2017
